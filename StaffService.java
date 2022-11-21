@@ -46,20 +46,6 @@ public interface StaffService {
 
 	public Certification updateCertificateDetails(Integer certificateId, Certification certification);
 
-	public void deleteCertificateDetails(Integer certificateId);
-
-	
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
+	public void deleteCertificateDetails(Integer certificateId);	
 
 }
