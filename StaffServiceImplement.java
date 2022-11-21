@@ -246,23 +246,5 @@ public class StaffServiceImplement implements StaffService {
 		certirepo.deleteById(certificateId);
 		
 	}
-
-
-
-	
-	
-
-	
-	
-	
-
-	
-	
-	
-
-	
-	
-	
-
 	
 }
